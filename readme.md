@@ -4,5 +4,16 @@
 
 
 ## xmas_msg_gen <a name = "it1"></a>
-Python 3 notebook containing a small program to generate random messages based on a pre written list
+Python 3 notebook containing a small program to generate random messages based on a pre written list. 
+To use: 
+1) Download and install Python 3, 
+2) Place "xmas_msg_gen.py" in the same folder of the python installation
+3) Double click on python executable (probably called python.exe or python3.exe or similar)
+4) type "from xmas_msg_gen import *" and press enter
+5) 10 random phrases will appear, if you want to generate more type "generate_xmas_msg()" and press enter
+
+If you would like to add more phrases, then simply open the "xmas_msg_gen.py" with any text editor and add in either
+"first", "second", "third" or "fourth" the phrase between quotes and with a comma after the quote and save. 
+
+The phrase you've added should now have a chance to appear!
 

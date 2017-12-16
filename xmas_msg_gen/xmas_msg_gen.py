@@ -55,7 +55,7 @@ def generate_xmas_msg():
         "Mordor",                                    #17
         "the NHS",                                   #21
         "Jar Jar Binks",                             #22
-        "Cyrano de Bergerac"                         #23
+        "Cyrano de Bergerac",                        #23
     ]
     
     
