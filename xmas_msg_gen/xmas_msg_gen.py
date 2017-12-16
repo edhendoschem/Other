@@ -46,7 +46,7 @@ def generate_xmas_msg():
         "Yog-Sothoth",                               #8
         "the Time Lords",                            #9
         "the Daleks",                                #10
-        "the city of Rivendel",                      #11
+        "the city of Rivendell",                     #11
         "the Witch-king of Angmar",                  #12
         "Tom Bombadil",                              #13
         "Treebeard and the Ents",                    #14
@@ -56,8 +56,20 @@ def generate_xmas_msg():
         "the NHS",                                   #21
         "Jar Jar Binks",                             #22
         "Cyrano de Bergerac",                        #23
-    ]
-    
+        "the Iron Throne",                           #24
+        "the Iron Bank of Braavos",                  #25
+        "Daenerys Targaryen",                        #26
+        "the Night King",                            #27
+        "ser Duncan the Tall",                       #28
+        "Brienne of Tarth",                          #29
+        "Cthulhu",                                   #30
+        "The Doctor",                                #31
+        "the Mimbari",                               #32
+        "the Centauri",                              #33
+        "the Narn",                                  #34
+        "the Vorlon",                                #35
+        "Babylon 5",                                 #36
+    ]    
     
     phrase = first[random.randrange(0,len(first),1)] + " in your "+second[random.randrange(0,len(second),1)]+" "\
             + third[random.randrange(0,len(third),1)] + " " + fourth[random.randrange(0,len(fourth),1)]
