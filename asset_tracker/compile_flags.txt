@@ -1,7 +1,0 @@
--I/usr/include/c++/8.3.0
--I/usr/include/c++/8.3.0/x86_64-pc-linux-gnu
--I/usr/include/c++/8.3.0/backward
--I/usr/local/include
--I/usr/lib/clang/8.0.0/include
--I/usr/include
--I/home/eduardo/Programming/cpp/2019-05-20_asset_tracker
