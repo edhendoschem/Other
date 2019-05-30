@@ -22,5 +22,5 @@ The phrase you've added should now have a chance to appear!
 Program to manipulate an SQL database via a graphical interface. Work in progress
 
 Library dependencies: pthread;sqlite3;OpenGL;sfml-graphics;sfml-window;sfml-system
-External includes: dearIMgui, imgui-sfml, sqlite_modern_cpp, 
+External includes: [dearimgui](https://github.com/ocornut/imgui), [imgui-sfml](https://github.com/eliasdaler/imgui-sfml), [sqlite_modern_cpp](https://github.com/SqliteModernCpp/sqlite_modern_cpp) 
 
