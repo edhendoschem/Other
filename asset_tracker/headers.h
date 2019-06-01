@@ -14,6 +14,7 @@
 
 //My classes/projects include
 #include "classes/db_vars.h"
+#include "classes/db_instance.h"
 #include "classes/tests.h"
 
 

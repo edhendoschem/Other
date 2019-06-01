@@ -3,10 +3,12 @@
 
 int main(int argc, char **argv)
 {
-
+    Database test {"some_test.db"};
+    
+    
     //testTextVariable();
     //testErrors();
-    testIntVariable(); //Pending find the error with IntVariable
+    //testIntVariable();
     //original db
     /*
     try {
